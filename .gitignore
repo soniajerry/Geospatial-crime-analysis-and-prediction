@@ -1,0 +1,4 @@
+backend/backend_env/
+criminal-prediction/criminal-prediction_env/
+resource-allocation/resource-allocation_env/
+sentiment-analysis/sentiment-analysis_env/
